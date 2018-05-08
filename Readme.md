@@ -14,4 +14,7 @@ Reference:  [K-Means Clustering in OpenCV](https://docs.opencv.org/3.0-beta/doc/
 
 ## HSV pixel range
 
-set up a HSV color look up table first. then compare each pixel of roi image with the look up table, then the largest distribution of color is the dominant. 
+set up a HSV color look up table first. then compare each pixel of roi image with the look up table, then the largest distribution of color is the dominant.
+
+## demo
+![color Recognition](https://github.com/walton-wang929/Color_Recognition/raw/master/demo/Color_recognition.gif)
